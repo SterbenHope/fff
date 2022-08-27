@@ -1,0 +1,106 @@
+[
+  {
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+      "name": "Tommy Hilfiger Cooper Watch",
+      "image": "products_images/watch1.jpg",
+      "description": "Turn up the volume with the Tommy Hilfiger Cooper watch. This tantalizing designer timepiece features a chic polished gold-toned bracelet strap and a brushed gold-tone case. The bold face is in nautical navy and is embellished with Tommy Hilfiger's iconic branding alongside sleek, slim golden house markers. Roman numerals sit at 12 o'clock and 6 o'clock.",
+      "short_description": "very good",
+      "price": "100.00",
+      "quantity": 13,
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+      "name": "Casio Sports Gear Alarm Chronograph",
+      "image": "products_images/watch2.jpg",
+      "description": "Functions LED light A light-emitting diode (LED) is used to illuminate the watch face. Second time zone A second location time can be set and called up. Ideal if you frequently make overseas calls. Stopwatch function - 1/100 sec. - 24 hours Elapsed time, split time and final time are measured with 1/100-sec accuracy. The watch can measure times of up to 24 hours. Multi alarm This model is equipped with a multifunctional alarm.",
+      "short_description": "good",
+      "price": "30.00",
+      "quantity": 7,
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+      "name": "Locksley London Quartz",
+      "image": "products_images/watch3.jpg",
+      "description": "At 40mm this beautiful stainless steel dress watch oozes sophistication with a machined dial pattern, classic Roman numeral markers and subtle date window. The richness of the brown leather strap will seamlessly transition you from the boardroom to evening event.",
+      "short_description": "very good",
+      "price": "50.00",
+      "quantity": 10,
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+      "name": "Unisex Casio Collection",
+      "image": "products_images/watch4.jpg",
+      "description": "The unisex Casio Core is a classic and contemporary everyday watch. Features of this model include an easy to read dial, with large Arabic indices in both 12 and 24 hour time. A visually striking timepiece, the sleek black of the dial is playfully contrasted with the bold orange accents.",
+      "short_description": "nice",
+      "price": "20.00",
+      "quantity": 10,
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 11,
+    "fields": {
+      "name": "Rotary Oxford Automatic",
+      "image": "products_images/watch5.jpg",
+      "description": "Rotary Oxford GB05095/04 is a practical and handsome Gents watch from Oxford collection. Case material is Stainless Steel while the dial colour is Black. In regards to the water resistance, the watch has got a resistancy up to 50 metres. It means it can be submerged in water for periods, so can be used for swimming and fishing. It is not recommended for high impact water sports.",
+      "short_description": "very good",
+      "price": "250.00",
+      "quantity": 9,
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 12,
+    "fields": {
+      "name": "Vivienne Westwood The Cranbourne",
+      "image": "products_images/watch6.jpg",
+      "description": "The watch is water resistant to 50 metres, so there�s no need to remove it when washing your hands, and it�s fine if you�re caught in the rain unexpectedly. Quartz movement delivers stunning accuracy, too.",
+      "short_description": "cool",
+      "price": "170.00",
+      "quantity": 7,
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 13,
+    "fields": {
+      "name": "Junghans FORM C Chronograph",
+      "image": "products_images/watch7.jpg",
+      "description": "best",
+      "short_description": "best",
+      "price": "480.00",
+      "quantity": 5,
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 14,
+    "fields": {
+      "name": "Junghans max bill Automatic Bauhaus",
+      "image": "products_images/watch8.jpg",
+      "description": "Material of the case is Stainless Steel, which stands for a high quality of the item while the dial colour is White. In regards to the water resistance, the watch has got a resistancy up to 30 metres. It means it can be worn in scenarios where it is likely to be splashed but not immersed in water. It can be worn while washing your hands and will be fine in rain.",
+      "short_description": "the best",
+      "price": "1200.00",
+      "quantity": 3,
+      "category": 1
+    }
+  }
+]
